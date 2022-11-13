@@ -35,7 +35,7 @@ public class ClasseA {
     }
 
     public void methodeDansAQuiAppelleToutesLesAutresClasses(){
-        System.out.println("Méthode dans A");
+        System.out.println("Méthode dans A coucou");
         B.methodeDansB();
         B.methodeDansB();
         C.methodeDansC();
